@@ -1,4 +1,4 @@
-# Claude
+# ClaudeScripts
 
 Small Windows helper scripts for managing the **Claude Cowork VM service**
 (`CoworkVMService`).
